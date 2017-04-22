@@ -1,4 +1,4 @@
-# The_Marken_Saga
+# The Marken Saga
 A Battle for Wesnoth (http://www.wesnoth.org/) campaign featuring Marken
 
 ## About
@@ -7,7 +7,7 @@ The Marken Saga was something I made many years ago when I was much younger, and
 
 ## Installation
 
-1. If you have not, install Wesnoth from http://wesnoth.org/. This version of The Marken Saga has only been tested to run on Wesnoth 1.12.
+1. If you have not done so, install Wesnoth from http://wesnoth.org/. This version of The Marken Saga has only been tested to run on Wesnoth 1.12.
 
 2. Clone or download the repository into the `add-ons` folder in your userdata directory. Depending on your platform, your userdata directory may be located in the following locations:
 
