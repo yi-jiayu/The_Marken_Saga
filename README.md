@@ -22,12 +22,13 @@ You may either run `git clone https://github.com/yi-jiayu/The_Marken_Saga.git` w
 ```
 Wesnoth 1.12
 |- add-ons
-   |- images
-   |- maps
-   |- scenarios
-   |- units
-   |- utils
-   |- _main.cfg
+   |- The_Marken_Saga
+      |- images
+      |- maps
+      |- scenarios
+      |- units
+      |- utils
+      |- _main.cfg
 ```
 
 3. Launch Wesnoth, and you should find The Marken Saga in your New Campaign menu.
